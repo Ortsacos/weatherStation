@@ -9,8 +9,8 @@ char auth[] = "i4bpEO9GX8ArXqBu_i0doquzUOVJLMUv";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Vodafone-B694C1";
-char pass[] = "15AEF2C57C";
+char ssid[] = "YourWIFIName";
+char pass[] = "YourWIFIPassword";
 
 //Serial Communication
 int br = 9600;
